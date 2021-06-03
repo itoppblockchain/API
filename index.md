@@ -6,8 +6,8 @@ This is the documentation for traceability blockchain prototype. The prototype h
 
 1. API include the server code to connect to blockchain. 
 2. GUI include the user interface to display trace data and call API functions. 
-3. External include the python code to access the existing API server via web.
-4. Smart Contracts include the standardparts contract to be installed to peers. 
+3. External include the python code to access the existing API server via web requests.
+4. Smart Contracts include the standardparts contract to be installed on the peers. 
 
 ## Installation
 
@@ -175,7 +175,7 @@ The TRU and TRACE data tables is provided below.
 ![image](/assets/images/truandtrace.jpg)
 ```
 
-### Interacting with the Blockchain: API, GUI and Contract
+### Interacting with the Blockchain: API, GUI and Smart Contract
 
 The user can submit transactions either through user interface or through API. Use interface provides user a contextual view of the information. The user interface calls the same API.
 
@@ -190,7 +190,7 @@ By clicking trace one can enter the trace interface.
 
 We can further explain each operation in the next section. 
 
-**Operations on Parts as Transactions**
+**Operations on Parts as Smart Contract Transactions**
 
 *Creation*
 TRU can be produced and registered ideally by a manufacturer. After manufacturing and testing, it is registered to blockchain.  A TRU can be created with the GTIN(producer-productnumber combination), quantitry, CoC and batchnumber combination.
