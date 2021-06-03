@@ -245,7 +245,7 @@ Dispute transaction is used for dispute management.
 You can see the trace of a for the M&R organization. It includes every operation the part has gone through from naufacturing. THe TRUIDs and GTINs are preserved through the trace. The CoC informations is only appended.
 
 
-### Use Case 2: Dispute Resolution through Consistent/Trusted Common Trace
+### Use Case 2: Dispute Resolution 
 
 The trace data for TRU6 for 3PL and MRO  trace  is shown respectively. So the 3PL trace is the same as the trace of MRO organization accept the latest operations done by the lates owner. Every organization in the blockchain has a consistent view of the trace.
 
