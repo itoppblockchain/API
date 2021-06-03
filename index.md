@@ -175,7 +175,7 @@ The TRU and TRACE data tables is provided below.
 ![image](/assets/images/truandtrace.jpg)
 ```
 
-### Interacting with the Blockchain: User Interface, API and Transactions
+### Interacting with the Blockchain: API, GUI and Contract
 
 The user can submit transactions either through user interface or through API. Use interface provides user a contextual view of the information. The user interface calls the same API.
 
@@ -268,19 +268,6 @@ This has additional use cases such as:
 3. Payment performance of the buyer can be precisely evaluated as it is done at the delivery.
 
 4. The payment can be automated by another smart contract.
-
-
-### API Requests
-
-Examples of web api requests are provided for each operation.
-
-
-We provide sample code for aceesing blockchain from Python.
-
-```markdown
-
-```
-
 
 ## Contact
 Please contact [contact support](u.eryilmaz@tue.nl) for your problems.
