@@ -1,5 +1,3 @@
-# Welcome to Traceability Blockchain Prototype
-
 ## Introduction
 
 This is the repository for traceability blockchain prototype. The repository has four folders. 
