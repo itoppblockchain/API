@@ -2,10 +2,10 @@
 
 This is the repository for traceability blockchain prototype. The repository has four folders. 
 
-1. Tracegui includes the tracegui application. 
-2. Traceapp includes the traceapi. 
-3. External includes the code to access the traceapi.
-4. The contract has the standardparts contract, 
+1. API include the client to connect to blockchain. 
+2. GUI include the user interface to display trace data. 
+3. External include the code to access the traceapi.
+4. Smart Contract include the standardparts contract run by the peers. 
 
 ## Installation
 
