@@ -1,11 +1,13 @@
+#ITOPP BLOCKCHAIN
+
 ## Introduction
 
-This is the repository for traceability blockchain prototype. The repository has four folders. 
+This is the documentation for traceability blockchain prototype. The prototype has four different components. 
 
-1. API include the client to connect to blockchain. 
-2. GUI include the user interface to display trace data. 
-3. External include the code to access the traceapi.
-4. Smart Contract include the standardparts contract run by the peers. 
+1. API include the server code to connect to blockchain. 
+2. GUI include the user interface to display trace data and call API functions. 
+3. External include the python code to access the existing API server via web.
+4. Smart Contracts include the standardparts contract to be installed to peers. 
 
 ## Installation
 
@@ -101,7 +103,7 @@ The prototype has three main components. The traceapi is a node.js application. 
 
 1. Run the blockchain network and install the standard parts contract.
 2. Run the api server.
-3. Run the client application.
+3. Run the gui application.
 
 For running the blockchain network the first-network example is used as a baseline. The  contract is updated with standardparts(SPgolangv4.go). Do the installation steps, download the fabric samples, update the contract file in the contract directory and update the installation script *startfabric.sh*.
 
