@@ -263,4 +263,4 @@ This has additional use cases such as:
 4. The payment can be automated by another smart contract.
 
 ## Contact
-Please contact [Contact](mailto:u.eryilmaz@tue.nl) for your problems.
+Please [send email](mailto:u.eryilmaz@tue.nl) for problems or inquiries.
