@@ -21,7 +21,7 @@ sudo apt-get update
 sudo apt install curl
 ```
 
-Ad user for traceability blockchain 
+Add user for traceability blockchain 
 ```markdown
 sudo adduser buser
 ```
@@ -167,12 +167,6 @@ Each traceable part grouping is called a Traceable Resource Unit(TRU) and identi
 -Each TRU is unique and corresponds to physical batch. TRU information can be aupdated by the owner organization.
 -The history of changes of TRU information is stored in the TRACE entries. The organizations can only update the TRACE information for the TRU they own.
 -When TRU is shipped, the change of ownership is allowed. The new owner can get the ownership. The old TRACE is copied to new owner. 
-
-The TRU and TRACE data tables is provided below.
-
-```markdown
-![image](/assets/images/truandtrace.jpg)
-```
 
 ### Interacting with the Blockchain: API, GUI and Smart Contract
 
