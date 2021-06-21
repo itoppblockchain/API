@@ -1,4 +1,3 @@
-# ITOPP DOCUMENTATION
 
 ## Introduction
 
